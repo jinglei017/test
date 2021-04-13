@@ -1,4 +1,4 @@
-function alertMsg(msg){
-  alert(msg)
+function alertMsg(){
+  alert("hello world")
 }
   
